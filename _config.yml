@@ -11,7 +11,7 @@ title                    : "Dreams Collector Of Lucky Sheep"
 title_separator          : "-"
 name                     : &name "好运小杨"
 description              : &description "I need to be the one who takes you home"
-url                      : lukcysheep.github.io
+url                      : https://ardbertbf.github.io/lukcysheep.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
